@@ -1,0 +1,6 @@
+Assignment 3 – Reflection Questions and Answers
+
+Question 1: Where did your first draft say more than the data allowed?
+
+Answer: In my first draft, I wrote that the median is a more robust average in cases of irregular prices. But I came to understand that I can’t say that the median is always a good choice. This depends on the data and what I am trying to explain. Additionally, I have also understood that data shows price variations but lacks the explanation of how these variations occurred.
+
